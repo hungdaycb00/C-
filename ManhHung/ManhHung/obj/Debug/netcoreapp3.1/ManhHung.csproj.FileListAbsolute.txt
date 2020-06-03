@@ -1,0 +1,13 @@
+D:\Aptech\C#\ManhHung\ManhHung\bin\Debug\netcoreapp3.1\ManhHung.exe
+D:\Aptech\C#\ManhHung\ManhHung\bin\Debug\netcoreapp3.1\ManhHung.deps.json
+D:\Aptech\C#\ManhHung\ManhHung\bin\Debug\netcoreapp3.1\ManhHung.runtimeconfig.json
+D:\Aptech\C#\ManhHung\ManhHung\bin\Debug\netcoreapp3.1\ManhHung.runtimeconfig.dev.json
+D:\Aptech\C#\ManhHung\ManhHung\bin\Debug\netcoreapp3.1\ManhHung.dll
+D:\Aptech\C#\ManhHung\ManhHung\bin\Debug\netcoreapp3.1\ManhHung.pdb
+D:\Aptech\C#\ManhHung\ManhHung\obj\Debug\netcoreapp3.1\ManhHung.csprojAssemblyReference.cache
+D:\Aptech\C#\ManhHung\ManhHung\obj\Debug\netcoreapp3.1\ManhHung.AssemblyInfoInputs.cache
+D:\Aptech\C#\ManhHung\ManhHung\obj\Debug\netcoreapp3.1\ManhHung.AssemblyInfo.cs
+D:\Aptech\C#\ManhHung\ManhHung\obj\Debug\netcoreapp3.1\ManhHung.csproj.CoreCompileInputs.cache
+D:\Aptech\C#\ManhHung\ManhHung\obj\Debug\netcoreapp3.1\ManhHung.dll
+D:\Aptech\C#\ManhHung\ManhHung\obj\Debug\netcoreapp3.1\ManhHung.pdb
+D:\Aptech\C#\ManhHung\ManhHung\obj\Debug\netcoreapp3.1\ManhHung.genruntimeconfig.cache

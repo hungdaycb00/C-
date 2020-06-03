@@ -1,0 +1,7 @@
+D:\Aptech\C#\Snippet3\Snippet3\bin\Debug\Snippet3.exe.config
+D:\Aptech\C#\Snippet3\Snippet3\bin\Debug\Snippet3.exe
+D:\Aptech\C#\Snippet3\Snippet3\bin\Debug\Snippet3.pdb
+D:\Aptech\C#\Snippet3\Snippet3\obj\Debug\Snippet3.csprojAssemblyReference.cache
+D:\Aptech\C#\Snippet3\Snippet3\obj\Debug\Snippet3.csproj.CoreCompileInputs.cache
+D:\Aptech\C#\Snippet3\Snippet3\obj\Debug\Snippet3.exe
+D:\Aptech\C#\Snippet3\Snippet3\obj\Debug\Snippet3.pdb
