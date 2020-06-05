@@ -1,0 +1,6 @@
+D:\Aptech\C Sharp\Snippet4\Snippet4\Snippet4\obj\Debug\Snippet4.csproj.CoreCompileInputs.cache
+D:\Aptech\C Sharp\Snippet4\Snippet4\Snippet4\bin\Debug\Snippet4.exe.config
+D:\Aptech\C Sharp\Snippet4\Snippet4\Snippet4\bin\Debug\Snippet4.exe
+D:\Aptech\C Sharp\Snippet4\Snippet4\Snippet4\bin\Debug\Snippet4.pdb
+D:\Aptech\C Sharp\Snippet4\Snippet4\Snippet4\obj\Debug\Snippet4.exe
+D:\Aptech\C Sharp\Snippet4\Snippet4\Snippet4\obj\Debug\Snippet4.pdb
