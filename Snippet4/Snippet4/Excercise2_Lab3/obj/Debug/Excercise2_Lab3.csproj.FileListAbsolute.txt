@@ -1,0 +1,7 @@
+D:\Aptech\C Sharp\Snippet4\Snippet4\Excercise2_Lab3\bin\Debug\Excercise2_Lab3.exe.config
+D:\Aptech\C Sharp\Snippet4\Snippet4\Excercise2_Lab3\bin\Debug\Excercise2_Lab3.exe
+D:\Aptech\C Sharp\Snippet4\Snippet4\Excercise2_Lab3\bin\Debug\Excercise2_Lab3.pdb
+D:\Aptech\C Sharp\Snippet4\Snippet4\Excercise2_Lab3\obj\Debug\Excercise2_Lab3.csproj.CoreCompileInputs.cache
+D:\Aptech\C Sharp\Snippet4\Snippet4\Excercise2_Lab3\obj\Debug\Excercise2_Lab3.exe
+D:\Aptech\C Sharp\Snippet4\Snippet4\Excercise2_Lab3\obj\Debug\Excercise2_Lab3.pdb
+D:\Aptech\C Sharp\Snippet4\Snippet4\Excercise2_Lab3\obj\Debug\Excercise2_Lab3.csprojAssemblyReference.cache
