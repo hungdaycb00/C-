@@ -289,33 +289,33 @@ namespace Snippet4
             {
                 if (numOne % numTwo == 0)
                 {
-                    Console.WriteLine(“Not a Prime Number”);
+                    Console.WriteLine("Not a Prime Number");
                     break;
                 }
                 numTwo++;
             }
             if (numTwo == numOne)
             {
-                Console.WriteLine(“Prime Number”);
+                Console.WriteLine("Prime Number");
             }
         }
         static void snipet20()
         {
-            Console.WriteLine(“Even numbers in the range of 1 - 10”);
+            Console.WriteLine("Even numbers in the range of 1 - 10");
             for (int i = 1; i <= 10; i++)
             {
                 if (i % 2 != 0)
                 {
                     continue;
                 }
-                Console.Write(i + “ “);
+                Console.Write(i + " ");
             }
         }
         static void snipet21()
         {
             int i = 0;
         display:
-            Console.WriteLine(“Hello World”);
+            Console.WriteLine("Hello World");
             i++;
             if (i < 5)
             {
@@ -346,14 +346,7 @@ namespace Snippet4
         stop:
             Console.WriteLine("Exiting the program");
         }
-        static void snipet23()
-        {
-
-        }
-        static void snipet24()
-        {
-
-        }
+       
     }
         static void snipet24()
         {
