@@ -1,0 +1,7 @@
+D:\Aptech\C Sharp\Snippet4\Snippet4\Lab4\bin\Debug\Lab4.exe.config
+D:\Aptech\C Sharp\Snippet4\Snippet4\Lab4\bin\Debug\Lab4.exe
+D:\Aptech\C Sharp\Snippet4\Snippet4\Lab4\bin\Debug\Lab4.pdb
+D:\Aptech\C Sharp\Snippet4\Snippet4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+D:\Aptech\C Sharp\Snippet4\Snippet4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\Aptech\C Sharp\Snippet4\Snippet4\Lab4\obj\Debug\Lab4.exe
+D:\Aptech\C Sharp\Snippet4\Snippet4\Lab4\obj\Debug\Lab4.pdb

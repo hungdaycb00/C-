@@ -1,0 +1,6 @@
+D:\Aptech\C Sharp\Snippet4\Snippet4\Session7\obj\Debug\Session7.csproj.CoreCompileInputs.cache
+D:\Aptech\C Sharp\Snippet4\Snippet4\Session7\bin\Debug\Session7.exe.config
+D:\Aptech\C Sharp\Snippet4\Snippet4\Session7\bin\Debug\Session7.exe
+D:\Aptech\C Sharp\Snippet4\Snippet4\Session7\bin\Debug\Session7.pdb
+D:\Aptech\C Sharp\Snippet4\Snippet4\Session7\obj\Debug\Session7.exe
+D:\Aptech\C Sharp\Snippet4\Snippet4\Session7\obj\Debug\Session7.pdb
