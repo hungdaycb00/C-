@@ -1,0 +1,7 @@
+D:\Aptech\C Sharp\Snippet4\Snippet4\Session10\bin\Debug\Session10.exe.config
+D:\Aptech\C Sharp\Snippet4\Snippet4\Session10\bin\Debug\Session10.exe
+D:\Aptech\C Sharp\Snippet4\Snippet4\Session10\bin\Debug\Session10.pdb
+D:\Aptech\C Sharp\Snippet4\Snippet4\Session10\obj\Debug\Session10.csprojAssemblyReference.cache
+D:\Aptech\C Sharp\Snippet4\Snippet4\Session10\obj\Debug\Session10.csproj.CoreCompileInputs.cache
+D:\Aptech\C Sharp\Snippet4\Snippet4\Session10\obj\Debug\Session10.exe
+D:\Aptech\C Sharp\Snippet4\Snippet4\Session10\obj\Debug\Session10.pdb
