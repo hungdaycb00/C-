@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E0C50529-FFFA-4B1C-9203-95E78002DDC3}</ProjectGuid>
+    <ProjectGuid>{228A686C-5769-4BE2-B7FC-10A36107FE36}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Session11</RootNamespace>
-    <AssemblyName>Session11</AssemblyName>
+    <RootNamespace>Session13</RootNamespace>
+    <AssemblyName>Session13</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,15 +43,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CustomMessage.cs" />
+    <Compile Include="Department.cs" />
     <Compile Include="Employee.cs" />
-    <Compile Include="NumberDoer.cs" />
-    <Compile Include="NumberTester.cs" />
-    <Compile Include="Product.cs" />
+    <Compile Include="General.cs" />
+    <Compile Include="General2.cs" />
+    <Compile Include="GeneralList2.cs" />
+    <Compile Include="GenericDepartment.cs" />
+    <Compile Include="IMaths.cs" />
+    <Compile Include="NamedIterators.cs" />
+    <Compile Include="Numbers.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Students.cs" />
-    <Compile Include="TypeInitError.cs" />
+    <Compile Include="ReadOnly.cs" />
+    <Compile Include="Student2.cs" />
+    <Compile Include="SwapNumbers.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

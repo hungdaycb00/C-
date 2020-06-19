@@ -20,7 +20,7 @@ namespace Session11
             }
             catch (FormatException objForm)
             {
-                Console.WriteLine("Error: " +objForm);
+                Console.WriteLine("Error: " + objForm);
             }
             Console.WriteLine("Enter the value of divisor");
             try
@@ -29,7 +29,7 @@ namespace Session11
             }
             catch (FormatException objFormat)
             {
-                Console.WriteLine("Error: " +objFormat);
+                Console.WriteLine("Error: " + objFormat);
             }
             if ((dividend > 0) || (divisor > 0))
             {
@@ -40,6 +40,6 @@ namespace Session11
                 Console.WriteLine("Invalid input");
             }
         }
-            
 
+    }
 }
