@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4B0A79FD-0059-441C-A3B2-ED0BD491E111}</ProjectGuid>
+    <ProjectGuid>{E0C50529-FFFA-4B1C-9203-95E78002DDC3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Session10</RootNamespace>
-    <AssemblyName>Session10</AssemblyName>
+    <RootNamespace>Session11</RootNamespace>
+    <AssemblyName>Session11</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,22 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AliaExample.cs" />
-    <Compile Include="Autombile.cs" />
-    <Compile Include="Category.cs" />
-    <Compile Include="Category1.cs" />
-    <Compile Include="Companies.cs" />
-    <Compile Include="Computer.cs" />
-    <Compile Include="Employees.cs" />
-    <Compile Include="Employees1.cs" />
+    <Compile Include="Employee.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Sales.cs" />
-    <Compile Include="ScoreReport.cs" />
-    <Compile Include="ScoreReport1.cs" />
-    <Compile Include="SpareParts.cs" />
-    <Compile Include="StudentDetails.cs" />
-    <Compile Include="System.cs" />
+    <Compile Include="Students.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
