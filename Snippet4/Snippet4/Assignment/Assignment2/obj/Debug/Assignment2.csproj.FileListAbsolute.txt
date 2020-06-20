@@ -1,0 +1,7 @@
+G:\Aptech\Assignment\Assignment\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+G:\Aptech\Assignment\Assignment\Assignment2\bin\Debug\Assignment2.exe.config
+G:\Aptech\Assignment\Assignment\Assignment2\bin\Debug\Assignment2.exe
+G:\Aptech\Assignment\Assignment\Assignment2\bin\Debug\Assignment2.pdb
+G:\Aptech\Assignment\Assignment\Assignment2\obj\Debug\Assignment2.exe
+G:\Aptech\Assignment\Assignment\Assignment2\obj\Debug\Assignment2.pdb
+G:\Aptech\Assignment\Assignment\Assignment2\obj\Debug\Assignment2.csprojAssemblyReference.cache
